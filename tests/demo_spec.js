@@ -28,7 +28,7 @@ describe('Protractor Demo App Test',function(){
         homepage.goButtonClick1();
         homepage.verifyResult('4');
 
-        browser.sleep(3000);
+        browser.sleep(2000);
 
         // element($('.ng-binding'));
 
